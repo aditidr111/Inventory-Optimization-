@@ -10,12 +10,12 @@ To optimize inventory levels across different locations (e.g., warehouses) such 
     2. Stockouts are avoided  
     3. Inventory turnover improves  
     4. Production and transportation constraints are taken into     consideration
-    
+   
 ## Libraries Used
-    1. PANDAS
-    2. PULP
-    3. MATPLOTLIB
-    4. SEABORN
-    
+1. PANDAS
+2. PULP
+3. MATPLOTLIB
+4. SEABORN
+
 
 

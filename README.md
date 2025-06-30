@@ -46,5 +46,9 @@ x[i]≥ Order quantities
 b. Production Constraints:  
 ∑x[i]≤ Production volume at each location
 
+## Conclusion  
+1.The model successfully minimizes inventory costs using PuLP and linear programming.
+2. It reveals clear gaps in current inventory policy — especially underutilization and overstocking of certain SKUs.
+
 
 
